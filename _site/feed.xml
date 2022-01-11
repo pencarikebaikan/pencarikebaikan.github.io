@@ -3,11 +3,24 @@
   <channel>
     <title>Best3abjad</title>
     <description>Membahas seputar tehnik blogging untuk meraih artikel menjadi page one</description>
-    <link>https://Best3abjad.github.io/</link>
-    <atom:link href="https://Best3abjad.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Feb 2021 02:21:15 +0000</pubDate>
-    <lastBuildDate>Sun, 14 Feb 2021 02:21:15 +0000</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 11 Jan 2022 03:17:09 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Jan 2022 03:17:09 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Prolog postingan best3abjad</title>
+        <description>&lt;p&gt;Halo semua nya semoga kalian baik baik saja yak. ini hanya prolog pembukaan postingan pertama. Pokok nya dam menu blog ini semua akan di isi artikel artikel yang semoga bermanfaat . dan berbagai macam kategori yang akan di sajikan semoga teman teman senang apa yang kami akan sajikan dan membawa manfaat tentunya&lt;/p&gt;
+
+&lt;p&gt;Mungkin hanya itu saja. kiranya haraf di maklumi karena saat ini masih dalam  proses pembuatan materi blog yang akan di tayang kan. oh ya jangan lupa tetep jaga kesehatan karena badai covid masih menimpa negri kita dan jangan lupa protokol kesehatan yang sudah di anjurkan untuk kita .terimakasih sampai bertumu di artikel terbaru nanti&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/prolog-postingan-best3abjad/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/prolog-postingan-best3abjad/</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
