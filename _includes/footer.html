@@ -1,54 +1,43 @@
-<div id="footer">
-
-    <div class="container">
-        
-        <div class="threecols">
-            <div class="col"><h3>Audience</h3><p>Selamat datang di blog ini semoga materi materi yang di berikan dari sini bisa membaeikan manfaat buat kalian</p><p><a href="/disclaimer">Disclaimer</a> - <a href="/privacy">Privacy</a></p></div>
-            <div class="col"><h3>Support</h3><p>Dukung kami dengan apa aja yang penting bisa memberikan informasi yang bermanfaat</p><p><a href="/about">About</a> - <a href="/about">Copyright</a> - <a href="/contact">Contact</a></p></div>
-            
-            <div class="col">
-            
-            </div>
-        </div>    
-        
-    </div>
-</div>
-
-{% include text-expand.html %}
-{% include cookie-consent.html %}
-{% include open-embed.html %}
-{% include new-window-fix.html %}
-{% include follow-buttons.html %}
-{% include buttons.html %}
-
-{% if page.url contains 'gdpr-compliant-comment' %}
-<script 
-src="https://code.jquery.com/jquery-3.4.1.min.js"
-integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-crossorigin="anonymous"></script>
-
-    {% include comments.html element=".post-content" github_account="jhvanderschee/jekyllcodex" require_cookie_consent="true" %}
-{% endif %}
-{% comment %}
-    {% include better-forms.html %}
-    {% include add-to-homescreen.html %}
-{% endcomment %}
-
-
-<!-- lightbox -->
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
-
-
-<!-- webshop -->
-<script type="text/javascript" src="/js/webshop.js"></script>
-<script type="text/javascript">
-    updateCartCount();
-    {% if page.layout == 'cart' %}populateCart();{% endif %}
-    {% if page.layout == 'checkout' %}initCheckoutForm(document.querySelector('#checkout form'));{% endif %}
-    {% if page.layout == 'paylink' %}redirectToPayment('https://useplink.com/payment/ssMgtkddEzgC4rKKJJ9T');{% endif %}
-</script>
-
-
-</body>
-</html>
+<footer>
+    <p>
+      {% if site.github_username %}
+      <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
+        <svg><use xlink:href="#icon-github"></use></svg>
+      </a>
+      {% endif %}
+      {% if site.facebook_username %}
+      <a itemprop="facebook" href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+        <svg><use xlink:href="#icon-facebook"></use></svg>
+      </a>
+      {% endif %}
+      {% if site.twitter_username %}
+      <a itemprop="twitter" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+        <svg><use xlink:href="#icon-twitter"></use></svg>
+      </a>
+      {% endif %}
+      {% if site.medium_username %}
+      <a itemprop="medium" href="https://medium.com/@{{ site.medium_username }}" title="Medium">
+        <svg><use xlink:href="#icon-medium"></use></svg>
+      </a>
+      {% endif %}
+      {% if site.instagram_username %}
+      <a itemprop="instagram" href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+        <svg><use xlink:href="#icon-instagram"></use></svg>
+      </a>
+      {% endif %}
+      {% if site.linkedin_username %}
+      <a itemprop="linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+        <svg><use xlink:href="#icon-linkedin"></use></svg>
+      </a>
+      {% endif %}
+    </p>
+    <ul>
+        {% for link in site.links %}
+          <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+        <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a></li>
+    </ul>
+    <p><span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="http://www.rossener.com" target="_blank" class="creator">Thiago Rossener</a></p>
+</footer>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+{% include stats.html %}

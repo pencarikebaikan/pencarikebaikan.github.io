@@ -1,112 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://localhost:4000/404.html</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/about/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/blog/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/contact/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/css/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/django/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/feed.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/life/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/mobile/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/contact/message-sent/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/assets/img/icons/preloader.svg</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/assets/img/icons/read.svg</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/search.json</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/sitemap.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/tags/index.html</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/tutorial/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/webdev/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000/why-we/</loc>
+        </url>
   
+        <url>
+            <loc>http://localhost:4000/introduce-app-life/</loc>
+        </url>
   
-      <url>
-        <loc>http://localhost:4000/about/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+        <url>
+            <loc>http://localhost:4000/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EC%95%B1-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0/</loc>
+        </url>
   
+        <url>
+            <loc>http://localhost:4000/StyleShare-app/</loc>
+        </url>
   
-  
-      <url>
-        <loc>http://localhost:4000/blog/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/contact/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/disclaimer/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/documen-plugin/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/documen-plugins/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/getting-started/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/privacy/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/search/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terms/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/robots.txt</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/blog/prolog-postingan-best3abjad/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
+        <url>
+            <loc>http://localhost:4000/Triple-review/</loc>
+        </url>
   
 </urlset>

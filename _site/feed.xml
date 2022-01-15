@@ -1,24 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Best3abjad</title>
-    <description>Membahas seputar tehnik blogging untuk meraih artikel menjadi page one</description>
+    <title>My blog</title>
+    <description>Some application service.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Jan 2022 03:39:13 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Jan 2022 03:39:13 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Jan 2022 14:22:34 +0700</pubDate>
+    <lastBuildDate>Sat, 15 Jan 2022 14:22:34 +0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>Prolog postingan best3abjad</title>
-        <description>&lt;p&gt;Halo semua nya semoga kalian baik baik saja yak. ini hanya prolog pembukaan postingan pertama. Pokok nya dam menu blog ini semua akan di isi artikel artikel yang semoga bermanfaat . dan berbagai macam kategori yang akan di sajikan semoga teman teman senang apa yang kami akan sajikan dan membawa manfaat tentunya&lt;/p&gt;
-
-&lt;p&gt;Mungkin hanya itu saja. kiranya haraf di maklumi karena saat ini masih dalam  proses pembuatan materi blog yang akan di tayang kan. oh ya jangan lupa tetep jaga kesehatan karena badai covid masih menimpa negri kita dan jangan lupa protokol kesehatan yang sudah di anjurkan untuk kita .terimakasih sampai bertumu di artikel terbaru nanti&lt;/p&gt;
-</description>
-        <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/prolog-postingan-best3abjad/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/prolog-postingan-best3abjad/</guid>
+        <title>우리는 왜 새로운 앱을 설치할 때 거부감을 느낄까?</title>
+        <description>&lt;h2 id=&quot;왜-우리는-새로운-앱을-설치할-때-거부감이-들까&quot;&gt;왜 우리는 새로운 앱을 설치할 때 거부감이 들까?&lt;/h2&gt; &lt;p&gt;사용자는 호기심에, 지인의 추천으로 앱스토어에서 관심 앱을 검색한다. 사용자는 다운로드 받을지 말지 고민하게 된다. 관심을 갖고 스토어까지 왔음에도 모두가 설치를 하지는 않는다.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;“왜 머뭇거릴까? 그것은 과거 앱 설치 경험을 통해 머리에 박힌 안 좋은 기억이 다운로드 하는 순간 플래시 터지듯 갑자기 떠오르기 때문이다. 설치, 사용자 등록, 그리고 기대했던 가치를 찾지 못하여 앱 여기저기를 헤매며 시간과 노력을 허비한 트라우마를 누구나 가지고 있다.”&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;꽤 효율이 높은 마케팅 채널을 통해 사용자에게 노출이 되었다고 하더라도, &lt;strong&gt;한 방에 사용자의 가슴을 울리지 못하면 바로 외면당하게 되는 것이다.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;이 경우 거의 바로 삭제해 버린다. 또한 한 번 삭제된...</description>
+        <pubDate>Wed, 04 Sep 2019 17:00:40 +0700</pubDate>
+        <link>http://localhost:4000/why-we/</link>
+        <guid isPermaLink="true">http://localhost:4000/why-we/</guid>
         
+        <category>Question</category>
+        
+        <category>app</category>
+        
+        
+        <category>app</category>
+        
+      </item>
+    
+      <item>
+        <title>생활 속 편리함을 플러스해주는 앱 소개</title>
+        <description>&lt;h3 id=&quot;지니뉴스&quot;&gt;지니뉴스&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://drive.google.com/open?id=11ZeN14Gvl6r9XdYaWzdZHZDcQDgSkels&quot; width=&quot;50%&quot; align=&quot;left&quot; /&gt; &lt;img src=&quot;https://drive.google.com/uc?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj&quot; width=&quot;50%&quot; align=&quot;right&quot; /&gt;&lt;/p&gt; &lt;p&gt;방대한 양의 현재 뉴스를 보기 쉽게 정리해서 볼 수 있다. 특히 3분 브리핑은 주요뉴스만을 선발해서 버스나 여유시간에 간단하게 볼 수 있어서 편리하다. 가입할 때 관심있는 카테고리를 설정하기 때문에 내 관심사 맞춤 뉴스를 볼 수 있다. 바쁜 직장인들이 틈틈이 다양한 분야의 현재 이슈를 파악할 수 있는 유용한 앱이다.&lt;/p&gt; &lt;h3 id=&quot;구글-아트-앤-컬처&quot;&gt;구글 아트 앤 컬처&lt;/h3&gt; &lt;p&gt;전시회, 미술관을 갈 시간과 여유가 없지만 매일 새로운 문화 지식을 습득하고 싶다면 추천하는 앱이다. 세계적인 다양한 작품을 매일 새롭게 추천해주며 콘텐츠와 설명을 같이 제공하고 있어서 가이드와 함께 작품을 즐기는 느낌이다. 관심있는 작품을 선택하며 비슷한 작품을 추천해주기도...</description>
+        <pubDate>Tue, 03 Sep 2019 12:40:00 +0700</pubDate>
+        <link>http://localhost:4000/introduce-app-life/</link>
+        <guid isPermaLink="true">http://localhost:4000/introduce-app-life/</guid>
+        
+        <category>post</category>
+        
+        <category>app</category>
+        
+        <category>lifestyle</category>
+        
+        
+        <category>Post</category>
+        
+      </item>
+    
+      <item>
+        <title>중고거래 앱 서비스 뜯어보기</title>
+        <description>&lt;p&gt;이커머스 시장에서 점점 존재잠을 키워가는 &lt;strong&gt;중고거래 앱 서비스&lt;/strong&gt;를 살펴보려고 한다.&lt;/p&gt; &lt;p&gt;포털 카페에서 시작된 “중고나라” , 신흥 강자로 떠오른 “당근마켓” 과 “번개장터”. 비슷하면서도 다른 이 세가지 앱을 비교해보자.&lt;/p&gt; &lt;h2 id=&quot;1-배너의-유무와-카테고리-위치&quot;&gt;1. 배너의 유무와 카테고리 위치&lt;/h2&gt; &lt;p&gt;어느 앱서비스에서나 배너는 사용자가 쉽게 페이지를 이동할 수 있도록 도와주는 역할을 하는데, 특히나 페이지 이동이 잦고 페이지에 담아야할 내용이 많은 이커머스 앱은 배너의 역할이 크다고 생각한다.&lt;/p&gt; &lt;p&gt;그렇기 때문에 배너에 있는 항목의 종류와 위치는 앱이 사용자에게 강조하고 싶은 부분을 나타내는 것 같다. 개인적으로 서비스를 사용하면서 느낀점은 “서비스가 중요시하는 기능 = 배너” 였다. 그래서 어떤 앱 서비스를 사용하든 배너를 먼저 파악하려고 하는 습관도 생겼다.&lt;/p&gt; &lt;p&gt;나의 경우, 이커머스앱을 사용하는 단계는&lt;/p&gt;...</description>
+        <pubDate>Tue, 20 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EC%95%B1-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0/</link>
+        <guid isPermaLink="true">http://localhost:4000/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EC%95%B1-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0/</guid>
+        
+        <category>service</category>
+        
+        <category>story</category>
+        
+        <category>app</category>
+        
+        
+        <category>E-COMMERCE</category>
+        
+      </item>
+    
+      <item>
+        <title>패션 이커머스 앱 &lt;스타일쉐어&gt; 리뷰</title>
+        <description>&lt;p&gt;스타일쉐어는 뷰티 이커머스 플랫폼으로, 패션부터 메이크업까지 스타일의 모든 정보를 공유하고 얻을 수 있다. 예전에는 모델이 있는 패션잡지를 보면서 마음에 드는 옷을 골랐다면, 이제는 전문가가 아니더라도 패션에 관심이 있는 누구나 모델이 되어 자신의 패션을 공유하고 스타일쉐어를 보면서 옷을 고른다.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;스타일쉐어가 인기를 얻은 이유 중 하나는 이처럼 진입장벽이 낮아서 사용자가 능동적으로 앱을 사용할 수 있다는 점이라고 생각한다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;strong&gt;나만의 스타일을 찾고 싶은 사람&lt;/strong&gt; , &lt;strong&gt;나의 스타일을 사람들과 공유하고 싶은 사람&lt;/strong&gt; , &lt;strong&gt;요즘 트렌드를 한눈에 보고 싶은 사람&lt;/strong&gt; 등&lt;/p&gt; &lt;p&gt;스타일에 관심있는 누구나 사용할 수 있는 앱이기 때문에 휴대폰에 하나씩 넣고 다니는 것 같다.&lt;/p&gt; &lt;h2 id=&quot;콘텐츠로-사용자-유입을-높인다&quot;&gt;콘텐츠로 사용자 유입을 높인다.&lt;/h2&gt; &lt;p&gt;플랫폼의 영향이 이커머스 시장까지...</description>
+        <pubDate>Tue, 30 Jul 2019 21:38:00 +0700</pubDate>
+        <link>http://localhost:4000/StyleShare-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/StyleShare-app/</guid>
+        
+        <category>Fashion</category>
+        
+        <category>app</category>
+        
+        
+        <category>E-COMMERCE</category>
+        
+      </item>
+    
+      <item>
+        <title>해외 여행 가이드 앱 &lt;트리플&gt; 리뷰</title>
+        <description>&lt;p&gt;Always-hi Everyone!!&lt;/p&gt; &lt;p&gt;요즘 휴가 시즌인만큼 여행 어플인 ‘TRIPLE’을 리뷰해볼까 해요&lt;/p&gt; &lt;p&gt;사실 저는 트리플을 저번 달 일본여행을 준비하면서 2주 동안 쓰고, 여행하면서 1주일을 썼어요!&lt;/p&gt; &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;아주 아주 솔직한 리뷰랍니다.&lt;/code&gt;&lt;/p&gt; &lt;p&gt;짧았던 사용기간에도 확실한건, &lt;strong&gt;트리플은 여행 계획 짜기에 너무 너무 편리하다!!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;정말 전반적인 건 앱에서 다 할 수 있는 것 같아요&lt;/p&gt; &lt;h2 id=&quot;장소-및-맛집-추천&quot;&gt;장소 및 맛집 추천&lt;/h2&gt; &lt;p&gt;앱 상단에서 맛집, 관광 카테고리는 &lt;em&gt;추천순/리뷰순/저장순&lt;/em&gt; 으로 소개하고 있어요.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://drive.google.com/uc?id=1CQhgnE8iPBgHdc2S5d_65rsF06ImWjbU&quot; width=&quot;50%&quot; align=&quot;left&quot; /&gt; &lt;img src=&quot;https://drive.google.com/uc?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj&quot; width=&quot;50%&quot; align=&quot;right&quot; /&gt;&lt;/p&gt; &lt;p&gt;이처럼 유명한 관광지부터 소소한 장소까지 있어서 취향에 따라 골라 저-장하고, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;오픈-클로즈 시간 및 입장 가격 등 디테일한 정보&lt;/code&gt;까지 제공해 주더라고요.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;개인적으로 여행계획 짜면서 시간이...</description>
+        <pubDate>Sat, 20 Jul 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Triple-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/Triple-review/</guid>
+        
+        <category>Trip</category>
+        
+        <category>app</category>
+        
+        
+        <category>Trip</category>
         
       </item>
     

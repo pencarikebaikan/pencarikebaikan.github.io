@@ -1,74 +1,47 @@
----
-title: Best3abjad
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  products:
-    title: Products
-    output: true
-    permalink: "/donate/:path/"
-  uploads:
-    title: Uploads
-    output: false
-  
-  
-  documen-plugin:
-    title: Documen Plugin
-    output: true
-    permalink: "/documen-plugin/:path/"  
-  
-defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
+# Site Settings
+title: My blog
+email: youremail@xyz.com
+description: Some application service.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://always-hi.github.io" # the base hostname & protocol for your site
+google_analytics: 
 
- 
-- scope:
-    path: ''
-    type: documen-plugin
-  values:
-    layout: documen-plugin-item    
+# User Settings
+username: always-hi
+user_description: student
+disqus_username: 
 
-    
-- scope:
-    path: ''
-    type: products
-  values:
-    layout: product
-description: Membahas seputar tehnik blogging untuk meraih artikel menjadi page one
-  
-url: https://pencarikebaikan.github.io
-permalink: "/blog/:title/"
-facebook_url: https://www.facebook.com/Peneliti-Online-130856032222822
-twitter_url: https://twitter.com/
-linkedin_url: https://www.linkedin.com/in/
-googleplus_url: https://plus.google.com/u/0/
-pinterest_url: 
-instagram_url: 
-highlighter: rouge
+# Social Media
+# Remove the item if you don't need it
+github_username: always-hi
+facebook_username: facebook_username
+twitter_username: twitter_username
+instagram_username: instagram_username
+linkedin_username: linkedin_username
+medium_username: medium_username
+
+# Build settings
 markdown: kramdown
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-input_types:
-- text
-- textarea
-- email
-- date
-- checkbox
-- radio
-- number
-- submit
-form_engines:
-- cloudcannon
-- formspree
-- formbucket
+highlighter: rouge
+permalink: /:title/
+paginate: 12
+paginate_path: "/page/:num/"
+svg_color: "#ff0a16"
+
+# Plugins
+plugins:
+  - jemoji
+  - jekyll-paginate
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

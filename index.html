@@ -1,17 +1,49 @@
 ---
-title: Home
-layout: home
-
+layout: main
 ---
 
-
-<h3>Karena hidup itu sudah seperti mengendarai sepeda. Untuk tetap menjaga keseimbangan, kamu harus tetap bergerak. – Albert Einstein</h3>
-
-<h3>Tidak peduli bagaimana kejam dan kerasnya kehidupan masa lalumu, kamu harus punya keyakinan untuk memulainya kembali.</h3>
-
-<h3>Karena tidak akan ada kata bahagia jika tidak ada kesedihan.</h3>
-
-<h3>Jika kamu merasa kehilangan seseorang tetapi bisa menemukan dirimu yang sebenarnya maka kamu sudah menang.</h3>
-
-<h3>Perubahan memang memiliki awal yang berat, bisa kacau di pertengahan namun akan indah pada akhirnya.</h3>
-<h3 class="post-meta">:)</h3>
+<main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+    <div id="grid" class="row flex-grid">
+        {% for post in paginator.posts %}
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.category }}">
+                        <span>{{ post.category }}</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    <div class="cover">
+                        {% include new-post-tag.html date=post.date %}
+                        <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
+                            {% if post.image %}
+                                <img src="/assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
+                            {% else %}
+                                <img src="/assets/img/placeholder.png" data-url="/assets/img/off.jpg" class="preload">
+                            {% endif %}
+                        </a>
+                    </div>
+                    <div class="box-info">
+                        <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
+                        <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
+                            {% include date.html date=post.date %}
+                        </time>
+                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                            <h2 class="post-title" itemprop="name">
+                                {{ post.title }}
+                            </h2>
+                        </a>
+                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                            <p class="description">{{ post.introduction }}</p>
+                        </a>
+                        <div class="tags">
+                            {% for tag in post.tags %}
+                                <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">{{ tag }}</a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </article>
+        {% endfor %}
+    </div>
+    {% include pagination.html %}
+</main>
