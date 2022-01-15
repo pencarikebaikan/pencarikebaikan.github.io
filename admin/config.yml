@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: pencarikebaikan/pencarikebaikan.github.io
   branch: main
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
