@@ -6,7 +6,7 @@
     <div class="hotslid">
         <div class="bixbox hothome full">
             <div class="releases">
-                <h2>Komik Popular Hari Ini...</h2>
+                <h2>Featured Posts</h2>
             </div>
             <div class="listupd">
                 {% assign counter = '0' %}
@@ -73,7 +73,7 @@
                         </a>
                         <div class="bigor">
                             <div class="tt">
-                                <a href="{{ site.url }}{{ site.baseurl }}/komik/{{ post.category }}" title="{{ post.subtitle }}">{{ post.subtitle }}</a>
+                                <a href="{{ site.url }}{{ site.baseurl }}/komik/{{ post.category }}" title="{{ post.subtitle }}">{{ post.category }}</a>
                             </div>
                             <div class="adds">
                                 <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.subtitle }} {{ post.title }}">

@@ -24,6 +24,72 @@
   
   
       <sitemap>
+        <loc>http://localhost:4000/komik/greatest-boss-system/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/heaven-defying-sword/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/hero-i-quit-a-long-time-ago/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/holy-ancestor/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/i-am-crazy-upgrade/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/i-am-daxianzun/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/i-am-the-god-of-medicine/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/i-have-dragon-on-my-body/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/i-was-trash/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/immortal-daddy-xianzun/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/komik/martial-god-asura/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
         <loc>http://localhost:4000/404.html</loc>
      </sitemap>
   

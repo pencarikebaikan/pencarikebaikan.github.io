@@ -197,7 +197,7 @@ header{float:left;margin: 8px 20px 8px 0;}
 .bs .bsx .limit .ply{display:none;position:absolute;width:100%;z-index:1;height:100%;top:0;background:rgba(0,0,0,0.51)}
 .bs .bsx .limit .ply .dashicons{background:rgba(14,175,193,0.8);border-radius:20%;-webkit-border-radius:20%;-moz-border-radius:20%;width:40px;height:40px;font-size:30px;position:absolute;top:50%;left:50%;display:inline-block;text-align:center;line-height:38px;margin-top:-20px;margin-left:-20px;border:2px solid #2fc5d9;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#fff;line-height:38px;transition:all .3s ease 0;-webkit-transition:all .3s ease 0;-moz-transition:all .3s ease 0}
 .bs .bsx .limit .status{position:absolute;top:13px;left:-22px;line-height:normal;color:#fff;text-transform:uppercase;font-weight:700;z-index:1;padding:2px 18px;font-size:9px;background:#de3b3b;-ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}
-.bigor{height:80px}
+.bigor{height:120px}
 .bs .bsx .limit .hot{position:absolute;top:3px;right:3px;background:#F44336;font-size:13px;font-weight:700;padding:0 5px;padding-top:3px;border-radius:3px;line-height:17px;color:#FFF;z-index:1}
 .bs .bsx:hover .limit .ply{display:block}
 .bs .bsx .adds{font-size:20px;color:#999}
