@@ -33,7 +33,7 @@ POST_TITLE="${@:2:$(($#-1))}"
 POST_NAME="$(echo ${@:2:$(($#-1))} | sed -e 's/ /-/g' | sed "y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/")"
 CURRENT_DATE="$(date -u +'%Y-%m-%d')"
 TIME=$(date -u +"%T")
-FILE_NAME="${POST_NAME}.md"
+FILE_NAME="${CURRENT_DATE}-${POST_NAME}.md"
 # ----------------------------------------------------------------
 
 
@@ -110,12 +110,12 @@ EOT
 initpost_content() {
 
 echo "---"
-echo "layout: page"
+echo "layout: post"
 echo "title: \"${POST_TITLE}\""
 echo "date: ${CURRENT_DATE} ${TIME}" 
 echo "subtitle: ${POST_TITLE}"
 echo "type: "
-echo "category: ${POST_NAME}"
+echo "category: "
 echo "tag: "
 echo "subtag: "
 echo "label: "

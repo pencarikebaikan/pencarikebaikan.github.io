@@ -1,115 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>basmanga</title>
-    <description>Situs baca manga bahasa indonesia online</description>
+    <title>Blog Gado</title>
+    <description>Blog informasi online yang bermanfaat</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jan 2022 18:26:24 +0700</pubDate>
-    <lastBuildDate>Tue, 18 Jan 2022 18:26:24 +0700</lastBuildDate>
+    <pubDate>Tue, 18 Jan 2022 19:39:16 +0700</pubDate>
+    <lastBuildDate>Tue, 18 Jan 2022 19:39:16 +0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>Chapter 71-80</title>
-        <description>
-</description>
-        <pubDate>Sun, 09 Jan 2022 06:07:37 +0700</pubDate>
-        <link>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-71-80/</link>
-        <guid isPermaLink="true">http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-71-80/</guid>
+        <title>Pandangan Islam tentang kucing</title>
+        <description>&lt;p&gt;Viral mengenai surat edaran Institut Teknologi Sepuluh Nopember (ITS) Surabaya soal kawasan bebas dari kucing liar. Kucing-kucing ini dinilai mengganggu tamu kampus. Dalam sebuah penelitian yang dilakukan oleh Pete Marra selaku kepala Smithsonian Migratory Bird Center, kucing juga dianggap bisa merusak ekosistem karena membuat spesies burung menjadi punah&lt;/p&gt; &lt;p&gt;Padahal kucing ialah hewan yang menyenangkan dan memiliki wajah lucu. Tak jarang kucing juga memiliki sifat yang manja. Sejak zaman Rasulullah SAW, kucing disebut-sebut sebagai hewan kesayangan Nabi Muhammad&lt;/p&gt; &lt;p&gt;Ada sebuah hadist dari Abu Qotadah, Nabi SAW bersabda:&lt;/p&gt; &lt;p&gt;“Kucing itu tidaklah najis. Sesungguhnya kucing ialah hewan yang sering kita jumpai dan berada...</description>
+        <pubDate>Tue, 18 Jan 2022 19:09:45 +0700</pubDate>
+        <link>http://localhost:4000/pandangan-islam-tentang-kucing/</link>
+        <guid isPermaLink="true">http://localhost:4000/pandangan-islam-tentang-kucing/</guid>
+        
+        <category>Cat Lover</category>
         
         
-        <category>dominate-the-three-exclusive-worlds</category>
-        
-      </item>
-    
-      <item>
-        <title>Chapter 61-70</title>
-        <description>
-</description>
-        <pubDate>Sun, 09 Jan 2022 06:07:32 +0700</pubDate>
-        <link>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-61-70/</link>
-        <guid isPermaLink="true">http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-61-70/</guid>
-        
-        
-        <category>dominate-the-three-exclusive-worlds</category>
+        <category>Cat Lover</category>
         
       </item>
     
       <item>
-        <title>Chapter 51-60</title>
+        <title>Chapter 16-20</title>
         <description>
 </description>
-        <pubDate>Sun, 09 Jan 2022 06:07:27 +0700</pubDate>
-        <link>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-51-60/</link>
-        <guid isPermaLink="true">http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-51-60/</guid>
+        <pubDate>Sun, 09 Jan 2022 07:52:54 +0700</pubDate>
+        <link>http://localhost:4000/chapter-16-20/</link>
+        <guid isPermaLink="true">http://localhost:4000/chapter-16-20/</guid>
         
         
-        <category>dominate-the-three-exclusive-worlds</category>
+        <category>b-group-no-shounen-x</category>
         
       </item>
     
       <item>
-        <title>Chapter 41-50</title>
+        <title>Chapter 11-15</title>
         <description>
 </description>
-        <pubDate>Sun, 09 Jan 2022 06:07:24 +0700</pubDate>
-        <link>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-41-50/</link>
-        <guid isPermaLink="true">http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-41-50/</guid>
+        <pubDate>Sun, 09 Jan 2022 07:52:51 +0700</pubDate>
+        <link>http://localhost:4000/chapter-11-15/</link>
+        <guid isPermaLink="true">http://localhost:4000/chapter-11-15/</guid>
         
         
-        <category>dominate-the-three-exclusive-worlds</category>
+        <category>b-group-no-shounen-x</category>
         
       </item>
     
       <item>
-        <title>Chapter 31-40</title>
+        <title>Chapter 06-10</title>
         <description>
 </description>
-        <pubDate>Sun, 09 Jan 2022 06:07:20 +0700</pubDate>
-        <link>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-31-40/</link>
-        <guid isPermaLink="true">http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-31-40/</guid>
+        <pubDate>Sun, 09 Jan 2022 07:52:48 +0700</pubDate>
+        <link>http://localhost:4000/chapter-06-10/</link>
+        <guid isPermaLink="true">http://localhost:4000/chapter-06-10/</guid>
         
         
-        <category>dominate-the-three-exclusive-worlds</category>
+        <category>b-group-no-shounen-x</category>
         
       </item>
     
       <item>
-        <title>Chapter 21-30</title>
+        <title>Chapter 01-05</title>
         <description>
 </description>
-        <pubDate>Sun, 09 Jan 2022 06:07:17 +0700</pubDate>
-        <link>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-21-30/</link>
-        <guid isPermaLink="true">http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-21-30/</guid>
+        <pubDate>Sun, 09 Jan 2022 07:52:45 +0700</pubDate>
+        <link>http://localhost:4000/chapter-01-05/</link>
+        <guid isPermaLink="true">http://localhost:4000/chapter-01-05/</guid>
         
         
-        <category>dominate-the-three-exclusive-worlds</category>
-        
-      </item>
-    
-      <item>
-        <title>Chapter 11-20</title>
-        <description>
-</description>
-        <pubDate>Sun, 09 Jan 2022 06:07:14 +0700</pubDate>
-        <link>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-11-20/</link>
-        <guid isPermaLink="true">http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-11-20/</guid>
-        
-        
-        <category>dominate-the-three-exclusive-worlds</category>
-        
-      </item>
-    
-      <item>
-        <title>Chapter 01-10</title>
-        <description>
-</description>
-        <pubDate>Sun, 09 Jan 2022 06:07:11 +0700</pubDate>
-        <link>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-01-10/</link>
-        <guid isPermaLink="true">http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-01-10/</guid>
-        
-        
-        <category>dominate-the-three-exclusive-worlds</category>
+        <category>b-group-no-shounen-x</category>
         
       </item>
     

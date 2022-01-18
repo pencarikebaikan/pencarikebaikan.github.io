@@ -112,7 +112,7 @@ header{float:left;margin: 8px 20px 8px 0;}
 .postbody .box{overflow:hidden;margin-bottom:20px}
 .releases{position:relative;display:flex;justify-content:space-between;align-items:baseline;border-bottom:1px solid #312f40;padding:8px 15px}
 .releases:after{position:absolute;left:0;bottom:0;right:auto;top:auto;height:1px;width:100%;background-color:transparent;display:block;z-index:1;transform:scaleY(0.5);opacity:.8;background-image:linear-gradient(90deg,rgba(0,0,0,0.01) 0,rgba(0,0,0,0.1) 10%,rgba(0,0,0,0.2) 20%,rgba(0,0,0,0.3) 30%,rgba(0,0,0,0.3) 70%,rgba(0,0,0,0.2) 80%,rgba(0,0,0,0.1) 90%,rgba(0,0,0,0.01) 100%)}
-.releases h1,.releases h2,.releases h3,#sidebar .section h4{font-size:15px;color:#FFF;line-height:20px;font-weight:500;margin:0;position:relative}
+.releases h1,.releases h2,.releases h3,#sidebar .section h4{font-size:20px;color:#FFF;line-height:20px;font-weight:500;margin:auto;position:relative}
 .releases .vl{font-size:.6em;text-transform:uppercase;color:#FFF;height:18px;line-height:18px;padding:0 6px;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;background:#366ad3;display:inline-block;float:right;margin-top:1px;margin-right:-3px}
 .hothome .releases{background:#366ad3;padding:0 15px;border:0}
 .hothome .releases h2{margin-top:15px;padding:5px 20px;background:#222;border-top-left-radius:5px;border-top-right-radius:5px;font-size:15px}
