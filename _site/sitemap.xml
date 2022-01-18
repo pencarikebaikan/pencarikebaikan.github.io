@@ -1,97 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-        <url>
-            <loc>http://localhost:4000/404.html</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/about/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/category/blog/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/contact/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/category/css/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/category/django/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/feed.xml</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/category/life/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/category/mobile/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/contact/message-sent/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/assets/img/icons/preloader.svg</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/assets/img/icons/read.svg</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/search.json</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/sitemap.xml</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/tags/index.html</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/category/tutorial/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/category/webdev/</loc>
-        </url>
-    
-    
-        <url>
-            <loc>http://localhost:4000/why-we/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/introduce-app-life/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EC%95%B1-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/StyleShare-app/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/Triple-review/</loc>
-        </url>
-  
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/author/postkomik</loc>
+<lastmod>2022-01-18T18:26:24+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-01-10/</loc>
+<lastmod>2022-01-09T06:07:11+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-11-20/</loc>
+<lastmod>2022-01-09T06:07:14+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-21-30/</loc>
+<lastmod>2022-01-09T06:07:17+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-31-40/</loc>
+<lastmod>2022-01-09T06:07:20+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-41-50/</loc>
+<lastmod>2022-01-09T06:07:24+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-51-60/</loc>
+<lastmod>2022-01-09T06:07:27+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-61-70/</loc>
+<lastmod>2022-01-09T06:07:32+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dominate-the-three-exclusive-worlds-chapter-71-80/</loc>
+<lastmod>2022-01-09T06:07:37+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/disclaimer</loc>
+</url>
+<url>
+<loc>http://localhost:4000/chatting</loc>
+</url>
+<url>
+<loc>http://localhost:4000/about</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/blog-id/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact</loc>
+</url>
+<url>
+<loc>http://localhost:4000/copyright</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dcma</loc>
+</url>
+<url>
+<loc>http://localhost:4000/donasi</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/embed-data-ifarme-codepen/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/file</loc>
+</url>
+<url>
+<loc>http://localhost:4000/genre</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/judul-komik/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/komik</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/label-komik/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/main</loc>
+</url>
+<url>
+<loc>http://localhost:4000/manga/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/manhua/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/manhwa/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page</loc>
+</url>
+<url>
+<loc>http://localhost:4000/post</loc>
+</url>
+<url>
+<loc>http://localhost:4000/privacy-policy</loc>
+</url>
+<url>
+<loc>http://localhost:4000/produk</loc>
+</url>
+<url>
+<loc>http://localhost:4000/series</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags</loc>
+</url>
+<url>
+<loc>http://localhost:4000/terms-and-condition/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/url-gambar-komik/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/video</loc>
+</url>
 </urlset>

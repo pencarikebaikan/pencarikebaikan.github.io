@@ -1,43 +1,73 @@
-<footer>
-    <p>
-      {% if site.github_username %}
-      <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
-        <svg><use xlink:href="#icon-github"></use></svg>
-      </a>
-      {% endif %}
-      {% if site.facebook_username %}
-      <a itemprop="facebook" href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
-        <svg><use xlink:href="#icon-facebook"></use></svg>
-      </a>
-      {% endif %}
-      {% if site.twitter_username %}
-      <a itemprop="twitter" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
-        <svg><use xlink:href="#icon-twitter"></use></svg>
-      </a>
-      {% endif %}
-      {% if site.medium_username %}
-      <a itemprop="medium" href="https://medium.com/@{{ site.medium_username }}" title="Medium">
-        <svg><use xlink:href="#icon-medium"></use></svg>
-      </a>
-      {% endif %}
-      {% if site.instagram_username %}
-      <a itemprop="instagram" href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
-        <svg><use xlink:href="#icon-instagram"></use></svg>
-      </a>
-      {% endif %}
-      {% if site.linkedin_username %}
-      <a itemprop="linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
-        <svg><use xlink:href="#icon-linkedin"></use></svg>
-      </a>
-      {% endif %}
-    </p>
-    <ul>
-        {% for link in site.links %}
-          <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
-        {% endfor %}
-        <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a></li>
+ <div id="footer">
+     <footer id="colophon" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
+<div class="menutag">
+    <ul id="bolo" class="lolo">
+        <li id="bale" class="bala"><button class="dole"><a href="{{ site.url }}/manga/" itemprop="url">Manga</a></button></li>
+        <li id="bale" class="bala"><button class="dole"><a href="{{ site.url }}/manhua/" itemprop="url">Manhua</a></button></li>
+        <li id="bale" class="bala"><button class="dole"><a href="{{ site.url }}/manhwa/" itemprop="url">Manhwa</a></button></li>
+        <li id="bale" class="bala"><button class="dole"><a href="{{ site.url }}/dcma/">DCMA</a></button></li>
+        <li id="bale" class="bala"><button class="dole"><a href="{{ site.url }}/contact/">Contact</a></button></li>
+        <li id="bale" class="bala"><button class="dole"><a href="{{ site.url }}/privacy-policy">Privacy Policy</a></button></li>
+        <li id="bale" class="bala"><button class="dole"><a href="{{ site.url }}/sitemap.xml">Sitemap</a></button></li>
     </ul>
-    <p><span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="http://www.rossener.com" target="_blank" class="creator">Thiago Rossener</a></p>
-</footer>
-<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
-{% include stats.html %}
+</div>
+         <div class="footercopyright">
+             <div class="copyright">
+                 <div class="txt">
+                     <p>Semua komik di website ini hanya preview dari komik aslinya,
+                         mungkin banyak terdapat kesalahan bahasa, nama tokoh, dan alur cerita.
+                         Untuk versi originalnya silahkan beli komiknya jika sudah tersedia di
+                         kotamu.</p>
+                     <!-- Histats.com  (div with counter) -->
+                     <div id="histats_counter"></div>
+                     <!-- Histats.com  START  (aync)-->
+                     <script type="text/javascript">
+                         var _Hasync = _Hasync || [];
+                         _Hasync.push(['Histats.start', '1,4615458,4,437,112,75,00011111']);
+                         _Hasync.push(['Histats.fasi', '1']);
+                         _Hasync.push(['Histats.track_hits', '']);
+                         (function() {
+                             var hs = document.createElement('script');
+                             hs.type = 'text/javascript';
+                             hs.async = true;
+                             hs.src = ('//s10.histats.com/js15_as.js');
+                             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+                         })();
+                     </script>
+                     <noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?4615458&101" alt="free tracking" border="0"></a></noscript>
+                     <!-- Histats.com  END  -->
+                 </div>
+             </div>
+         </div>
+     </footer>
+ </div>
+ <a href="#" class="scrollToTop" style="display: inline;">^</a>
+ <script>
+     function timeAgo(o) {
+         var t = (new Date).getTime() - o.getTime(),
+             e = Math.floor(t / 1e3),
+             r = Math.floor(e / 60),
+             a = Math.floor(r / 60),
+             g = Math.floor(a / 24),
+             h = Math.floor(g / 30),
+             n = Math.floor(h / 12);
+         return 0 === t ? "Just now" : e < 60 ? e + " seconds Ago" : r < 60 ? r + " menit lalu" : a < 24 ? a + " jam lalu" : g < 30 ? g + " hari lalu" : h < 12 ? h + " bulan lalu" : n + " tahun lalu"
+     }
+
+     $(".epxdate").each(function() {
+         $(this).html(timeAgo(new Date($(this).text())));
+     });
+ </script>
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+ <script async src="https://www.googletagmanager.com/gtag/js?id=G-2R0WJRKX5Z"></script>
+ <script>
+     window.dataLayer = window.dataLayer || [];
+
+     function gtag() {
+         dataLayer.push(arguments);
+     }
+     gtag('js', new Date());
+
+     gtag('config', 'G-PT6YT9Q8Z7');
+ </script>
+ <script async src="https://cse.google.com/cse.js?cx=5e724234f6f5e57b7"></script>

@@ -1,47 +1,60 @@
 # Site Settings
-title: My blog
-email: youremail@xyz.com
-description: Some application service.
+title: basmanga
+email: alwyahmad23@gmail.com
+description: Situs baca manga bahasa indonesia online
+logo: 'assets/images/logo.png'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://always-hi.github.io" # the base hostname & protocol for your site
+url: "https://basmanga.netlify.app" # the base hostname & protocol for your site
 google_analytics: 
 
+include: ["_pages"] 
+
 # User Settings
-username: always-hi
-user_description: student
-disqus_username: 
+username: postkomik
+user_description: Pengurus web
+disqus_shortname: postkomik-github-1
 
 # Social Media
 # Remove the item if you don't need it
-github_username: always-hi
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: penelitionlien
+facebook_username: post.komik.54
+twitter_username: Basmanga1
+instagram_username: postkomik.54
+linkedin_username: post-komik-44987a58
+medium_username: 
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /:categories-:title/
 paginate: 12
 paginate_path: "/page/:num/"
 svg_color: "#ff0a16"
+collections:
+  authors:
+    output: true
 
 # Plugins
 plugins:
-  - jemoji
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+ 
 
 # Links to include in menu navigation
 # For external links add external: true
 links:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+  - title: Daftar Manga
+    url: /serie/
   - title: Contact
-    url: /contact/
+    url: /contact
+  - title: About us
+    url: /about
+  - title: Privacy Policy
+    url: /privacy-policy   
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
