@@ -6,7 +6,7 @@ subtitle: Pandangan Islam tentang kucing
 type: chapter
 category: Cat Lover
 tag: Cat Lover
-subtag: 
+subtag: cat-lover
 label: chapter
 image: https://1.bp.blogspot.com/-Sa9ArdgaUK8/X_APU1Qm_bI/AAAAAAAAOMA/MLROrBEk7vsxlFrLfgL97ryVs-A9LKcFQCLcBGAsYHQ/w320-h195/kucing.jpg
 author: postkomik

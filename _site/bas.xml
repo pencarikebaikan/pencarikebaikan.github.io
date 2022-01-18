@@ -24,6 +24,12 @@
   
   
       <sitemap>
+        <loc>http://localhost:4000/komik/cat-lover/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
         <loc>http://localhost:4000/komik/greatest-boss-system/</loc>
      </sitemap>
   
