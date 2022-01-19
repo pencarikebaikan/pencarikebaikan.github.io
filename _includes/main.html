@@ -12,13 +12,13 @@
                 {% assign counter = '0' %}
                 {% for page in site.pages %}
                 {% for label in page.label %}
-                {% if label == "Series" and counter < '7' %}
+                {% if label == "Blog" and counter < '7' %}
                 {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
                 <div class="bs">
 
                     <div class="bsx">
 
-                        <a href="{{ page.url }}/" title="{{ page.title }}">
+                        <a href="{{ page.url }}" title="{{ page.title }}">
                             <div class="limit">
                                 <div class="ply"></div>
                                 <span class="type Manga"></span> <span class="hotx"><i class="fab fa-hotjar"></i></span> <img src="{{ page.image }}" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy">
@@ -26,7 +26,7 @@
                             <div class="bigor">
 
                                 <div class="tt">
-                                    <a href="{{ site.url }}{{ site.baseurl }}/komik/{{ page.category }}/" title="{{ page.subtitle }}">{{ page.subtitle }}</a>
+                                    <a href="{{ site.url }}{{ site.baseurl }}/category/{{ page.subtag }}/" title="{{ page.subtitle }}">{{ page.subtitle }}</a>
                                 </div>
 
                                 <div class="adds">
@@ -63,7 +63,7 @@
                 <div class="bs styletere">
                     <div class="bsx">
 
-                        <a href="{{ site.url }}{{ site.baseurl }}/komik/{{ post.category }}" title="{{ post.subtitle }}">
+                        <a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.subtag }}" title="{{ post.subtitle }}">
                             <div class="limit">
                                 {% if post.image %}
                                 <div class="ply"></div>
@@ -73,7 +73,7 @@
                         </a>
                         <div class="bigor">
                             <div class="tt">
-                                <a href="{{ site.url }}{{ site.baseurl }}/komik/{{ post.category }}" title="{{ post.subtitle }}">{{ post.category }}</a>
+                                <a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.subtag }}" title="{{ post.subtitle }}">{{ post.category }}</a>
                             </div>
                             <div class="adds">
                                 <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.subtitle }} {{ post.title }}">

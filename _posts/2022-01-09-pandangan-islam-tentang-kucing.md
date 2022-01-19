@@ -4,9 +4,9 @@ title: "Pandangan Islam tentang kucing"
 date: 2022-01-18 12:09:45
 subtitle: Pandangan Islam tentang kucing
 type: chapter
-category: Cat Lover
+category: cat lover pow
 tag: Cat Lover
-subtag: cat-lover
+subtag: cat-lover-pow
 label: chapter
 image: https://1.bp.blogspot.com/-Sa9ArdgaUK8/X_APU1Qm_bI/AAAAAAAAOMA/MLROrBEk7vsxlFrLfgL97ryVs-A9LKcFQCLcBGAsYHQ/w320-h195/kucing.jpg
 author: postkomik

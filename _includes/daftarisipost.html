@@ -1,0 +1,33 @@
+
+
+<div class="bixbox bxcl epcheck">
+    <div class="releases">
+        <h2>Chapter Komik {{ page.title }}</h2>
+    </div>
+    <div class="eplister" id="chapterlist">
+
+        <ul>
+        {% for post in site.posts %}
+        {% if post.category contains page.category %}			
+            <li data-num="1.1">
+                <div class="chbox">
+                    <div class="eph-num">
+                       <div class="">
+                          {% if page.image %}
+                          <a href="{{ post.url }}"><img class="ts-post-image wp-post-image attachment-medium size-medium" src="{{ page.image }}" alt="{{ page.title }}"></a>
+                          {% endif %}
+                       </div>
+                        <a href="{{ post.url }}">
+                            <span class="chapternum">{{ post.title }}</span>
+                            <span class="epxdate">{{ post.date | date: "%b %d, %Y" }}</span>
+                        </a>
+                    </div>
+                    
+                </div>
+            </li>
+        {% endif %}
+        {% endfor %}            
+        </ul>
+
+    </div>
+</div>
