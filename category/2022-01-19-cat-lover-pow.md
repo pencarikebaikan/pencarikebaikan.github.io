@@ -6,6 +6,7 @@ subtitle: cat lover pow
 subtag: cat-lover-pow
 label: Blog
 type: blog
+subtype: blog
 category: cat lover pow
 author: Postkomik
 description: Siapa dia? Kenapa dia disebut Bos? Mungkin dia penguasa dunia yang tak kenal takut. Atau mungkin musuh terburuk umat manusia, yang meruntuhkan dunia. Setelah Su Sin terlahir kembali, ia kehilangan semua keterampilan dan kemampuannya dari kehidupan sebelumnya di dunia ksatria. Namun, Sistem yang baru ditanamkan dapat membantunya mengembalikannya.

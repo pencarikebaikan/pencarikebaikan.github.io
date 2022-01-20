@@ -2,6 +2,10 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <sitemap>
+        <loc>http://localhost:4000/post-view-counter-page-statis-generator/</loc>
+    </sitemap>
+  
+    <sitemap>
         <loc>http://localhost:4000/pandangan-islam-tentang-kucing/</loc>
     </sitemap>
   
@@ -102,6 +106,12 @@
   
   
       <sitemap>
+        <loc>http://localhost:4000/category/sourcode/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
         <loc>http://localhost:4000/404.html</loc>
      </sitemap>
   
@@ -129,6 +139,12 @@
   
       <sitemap>
         <loc>http://localhost:4000/blog/blog-id/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/blog/</loc>
      </sitemap>
   
   
@@ -185,12 +201,6 @@
   
       <sitemap>
         <loc>http://localhost:4000/</loc>
-     </sitemap>
-  
-  
-  
-      <sitemap>
-        <loc>http://localhost:4000/blog/</loc>
      </sitemap>
   
   

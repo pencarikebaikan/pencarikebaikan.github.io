@@ -28,7 +28,7 @@
                 
                 </div>
                 <div class="releases">
-                <span>{{ site.title }} - {{ page.date }} view : <span id="busuanzi_value_page_pv"></span></span> </span></span>
+                <div>{{ site.title }} - {% include date.html date=page.date %} - view : <img src="https://visitor-badge.glitch.me/badge?page_id={{ page.url }}" alt="Views"/></div> 
                 </div>
                 <div class="releases">
                 {% include share.html %}
@@ -55,6 +55,6 @@
                 
             </div>
         {% include footer.html %}
- 
+        
     </body>
 </html>

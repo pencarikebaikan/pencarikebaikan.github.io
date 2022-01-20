@@ -21,7 +21,7 @@
                     {% assign counter = '0' %}
                     {% for page in site.pages %}
                     {% for label in page.label %}
-                    {% if label == "Series" and counter < '5' %}
+                    {% if label == "Blog" and counter < '5' %}
                     {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
                     <li>
                         <div class="imgseries"><a class="series" href="{{ page.url }}" rel="139958"><img src="{{ page.image }}" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy"></a></div>

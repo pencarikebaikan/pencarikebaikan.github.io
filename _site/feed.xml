@@ -5,9 +5,23 @@
     <description>Blog informasi online yang bermanfaat</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Jan 2022 21:33:29 +0700</pubDate>
-    <lastBuildDate>Wed, 19 Jan 2022 21:33:29 +0700</lastBuildDate>
+    <pubDate>Thu, 20 Jan 2022 13:30:11 +0700</pubDate>
+    <lastBuildDate>Thu, 20 Jan 2022 13:30:11 +0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Post view counter page statis generator</title>
+        <description>&lt;div class=&quot;views&quot;&gt; &lt;span class=&quot;views&quot;&gt; &lt;img src=&quot;https://visitor-badge.glitch.me/badge?page_id= }}&quot; alt=&quot;Views&quot; /&gt; &lt;/span&gt; &lt;/div&gt; &lt;p src=&quot;https://visitor-badge.glitch.me/badge?page_id= }}&quot;&gt; &lt;/p&gt; &lt;h1 id=&quot;visitor-badge&quot;&gt;visitor-badge&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;The service is now deployed under a free version of glitch, so it will down if too many requests in the same time&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;You can:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;fork this project and deploy under your glitch account and let it working for yourself, it should be enough.&lt;/li&gt; &lt;li&gt;use &lt;a href=&quot;https://github.com/dwyl/hits&quot;&gt;hits&lt;/a&gt; instead&lt;/li&gt; &lt;li&gt;consider a donation :-)&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Sorry for the inconvenience.&lt;/p&gt; &lt;p&gt;If you deployed forked project to your stable server and want to provide a free, stable service, which is very kind, please raise an issue...</description>
+        <pubDate>Thu, 20 Jan 2022 12:27:01 +0700</pubDate>
+        <link>http://localhost:4000/post-view-counter-page-statis-generator/</link>
+        <guid isPermaLink="true">http://localhost:4000/post-view-counter-page-statis-generator/</guid>
+        
+        <category>tutorial</category>
+        
+        
+        <category>Sourcode</category>
+        
+      </item>
     
       <item>
         <title>Pandangan Islam tentang kucing</title>

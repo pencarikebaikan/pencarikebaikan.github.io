@@ -42,11 +42,11 @@ FILE_NAME="${CURRENT_DATE}-${POST_NAME}.md"
 
 # Set your destination folder
 BINPATH=$(cd `dirname $0`; pwd)
-POSTPATH="${BINPATH}/blog"
+POSTPATH="${BINPATH}/_posts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
-BLOG_URL="https://postkomik.github.io/"
+BLOG_URL="https://pencarikebaikan.github.io/"
 
 # Set your assets URL
 ASSETS_URL="assets/img/"
@@ -96,7 +96,7 @@ Options:
   -h, --help        output instructions
   -c, --create      create post
 Example:
-  ./initpost.sh -c How to replace strings with sed
+  ./blog.sh -c How to replace strings with sed
 Important Notes:
   - This script was created to generate new text files to my blog.
 Copyright (c) Vitor Britto

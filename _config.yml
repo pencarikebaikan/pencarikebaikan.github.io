@@ -13,7 +13,7 @@ include: ["_pages"]
 username: postkomik
 user_description: Pengurus web
 disqus_shortname: postkomik-github-1
-
+author: postkomik
 # Social Media
 # Remove the item if you don't need it
 github_username: penelitionlien
