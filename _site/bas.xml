@@ -2,6 +2,10 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <sitemap>
+        <loc>http://localhost:4000/cara-membuat-sagu-enak/</loc>
+    </sitemap>
+  
+    <sitemap>
         <loc>http://localhost:4000/post-view-counter-page-statis-generator/</loc>
     </sitemap>
   
@@ -10,19 +14,63 @@
     </sitemap>
   
     <sitemap>
-        <loc>http://localhost:4000/chapter-16-20/</loc>
+        <loc>http://localhost:4000/welcome-to-the-desert-of-the-real/</loc>
     </sitemap>
   
     <sitemap>
-        <loc>http://localhost:4000/chapter-11-15/</loc>
+        <loc>http://localhost:4000/why-books-should-be-your-priority/</loc>
     </sitemap>
   
     <sitemap>
-        <loc>http://localhost:4000/chapter-06-10/</loc>
+        <loc>http://localhost:4000/the-quick-brown-fox-jumps-over-a-lazy-dog/</loc>
     </sitemap>
   
     <sitemap>
-        <loc>http://localhost:4000/chapter-01-05/</loc>
+        <loc>http://localhost:4000/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/candy-candies-candy/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/trust-me-it-will-work/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/how-to-turn-your-dog-into-a-jedi-master/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/let-flexbox-work-for-you-or-perish/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/smoke-alert/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/do-you-believe-that-a-spider-can-dance/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/a-cook-cries-in-the-rain-at-night/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/grab-your-band-and-get-out/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/passion-is-dangerous-go-for-it/</loc>
+    </sitemap>
+  
+    <sitemap>
+        <loc>http://localhost:4000/birds-can-fly-but-this-you-knew-already/</loc>
     </sitemap>
   
   
@@ -278,6 +326,12 @@
   
   
       <sitemap>
+        <loc>http://localhost:4000/tags/</loc>
+     </sitemap>
+  
+  
+  
+      <sitemap>
         <loc>http://localhost:4000/tags</loc>
      </sitemap>
   
@@ -300,6 +354,12 @@
      </sitemap>
   
   
+  
+  
+  
+      <sitemap>
+        <loc>http://localhost:4000/page/2/</loc>
+     </sitemap>
   
   
 </sitemapindex>

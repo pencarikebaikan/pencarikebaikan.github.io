@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="http://schema.org/WebPage">
     {% include head.html %}
@@ -28,8 +31,11 @@
                 
                 </div>
                 <div class="releases">
-                <div>{{ site.title }} - {% include date.html date=page.date %} - view : <img src="https://visitor-badge.glitch.me/badge?page_id={{ page.url }}" alt="Views"/></div> 
+                <div>{{ site.title }} - {% include date.html date=page.date %} - {{ page.author }} </div>
+               
+ 
                 </div>
+                <div class="releases"><img src="https://visitor-badge.glitch.me/badge?page_id={{ page.url }}.visitor-badge&amp;left_text=View" alt="visitor badge"></div>
                 <div class="releases">
                 {% include share.html %}
                 </div>
@@ -37,6 +43,14 @@
 				{{ content }}
                 
 				</div>
+				<div class="releases">                
+                    {% include postblog.html %}
+                
+                </div>
+				<div class="releases">                
+                    {% include related.html %}
+                
+                </div>
 <div id="comments" class="bixbox comments-area">
                   <div class="releases">
                       <h2><span>Comment</span></h2>

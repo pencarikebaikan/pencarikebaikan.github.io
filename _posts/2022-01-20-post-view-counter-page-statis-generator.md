@@ -5,7 +5,7 @@ date: 2022-01-20 05:27:01
 subtitle: Post view counter page statis generator
 type: artikel
 category: Sourcode
-tag: tutorial
+tags: tutorial
 subtag: sourcode
 label: tutorial
 image: https://1.bp.blogspot.com/-Sa9ArdgaUK8/X_APU1Qm_bI/AAAAAAAAOMA/MLROrBEk7vsxlFrLfgL97ryVs-A9LKcFQCLcBGAsYHQ/w320-h195/kucing.jpg
