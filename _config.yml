@@ -4,7 +4,7 @@ email: alwyahmad23@gmail.com
 description: Blog informasi online yang bermanfaat 
 logo: 'assets/images/logo.png'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pencarikebaikan.github.io" # the base hostname & protocol for your site
+url: "https://gadoblog.pages.dev" # the base hostname & protocol for your site
 google_analytics: 
 
 include: ["_pages"] 

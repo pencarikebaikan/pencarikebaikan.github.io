@@ -1,10 +1,15 @@
 ---
 layout: page
 title: File Data
-permalink: /file
+permalink: /filedata
 image: 
 --- 
 
+#url
+
+{% for post in site.posts %}
+{{ site.url }}{{ post.url }}
+{% endfor %}
 
 #List Manga
 
