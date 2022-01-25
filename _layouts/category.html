@@ -28,7 +28,7 @@ layout: compress
  "description": "{{ page.description }}",
  "mainEntityOfPage" : {
     "@type": "WebPage",
-    "@id": "{{ site.url }}{{ site.baseurl }}/komik/{{ page.category }}/"
+    "@id": "{{ site.url }}{{ site.baseurl }}/category/{{ page.subtag }}/"
   },
  "image": {
      "@type" : "imageObject",
@@ -39,18 +39,18 @@ layout: compress
  
  "editor": "{{ page.author}}", 
  "genre": "{{ page.category }} ", 
- "keywords": "Manga Komik {{ page.title }} Bahasa Indonesia ", 
+ "keywords": "{{ page.title }} ", 
  
    "publisher": {
     "@type": "Organization",
     "name": "postkomik",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://basmanga.netlify.app/assets/images/logo.png"
+      "url": "https://gadoblog.pages.dev/assets/images/logo.png"
     }
   },
  
- "url": "{{ site.url }}{{ site.baseurl }}/komik/{{ page.category }}/",
+ "url": "{{ site.url }}{{ site.baseurl }}/category/{{ page.subtag }}/",
  "datePublished": "{{ page.date | date: '%Y-%m-%d/' }}",
  "dateCreated": "{{ page.date | date: '%Y-%m-%d/' }}",
  "dateModified": "{{ page.date | date: '%Y-%m-%d/' }}",
