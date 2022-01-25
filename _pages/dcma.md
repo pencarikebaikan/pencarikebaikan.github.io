@@ -23,5 +23,5 @@ Notice:
 Anonymous or incomplete messages will not be deal with it. Thank you for your understanding.
 
 DISCLAIMER:
-None of the all files and video listed in this website are hosted on the server of https://basmanga.netlify.app/ all point to content hosted on third party websites. https://basmanga.netlify.app/ does not accept responsibility for content hosted on third party websites and does not have any involvement in the downloading/uploading of pictures. We just post links available in internet. If you think any of the contents of this site infringes any intellectual property law and you hold the copyright of that content please report it to uzumakibotan@gmail.com the content will be immediately removed.
+None of the all files and video listed in this website are hosted on the server of https://gadoblog.pages.dev/ all point to content hosted on third party websites. https://gadoblog.pages.dev/ does not accept responsibility for content hosted on third party websites and does not have any involvement in the downloading/uploading of pictures. We just post links available in internet. If you think any of the contents of this site infringes any intellectual property law and you hold the copyright of that content please report it to uzumakibotan@gmail.com the content will be immediately removed.
 Thank you.

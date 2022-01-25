@@ -5,9 +5,24 @@
     <description>Blog informasi online yang bermanfaat</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Jan 2022 17:39:35 +0700</pubDate>
-    <lastBuildDate>Tue, 25 Jan 2022 17:39:35 +0700</lastBuildDate>
+    <pubDate>Tue, 25 Jan 2022 18:02:42 +0700</pubDate>
+    <lastBuildDate>Tue, 25 Jan 2022 18:02:42 +0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>First Dragon</title>
+        <description>&lt;p&gt;Seorang Pasukan Khusus bernama Wang-Sheng terbawa ke Dunia Yuan-Hun ketika melakukan latihan. Disana, dia dirasuki oleh ikan koi kecil yang merupakan Roh Yuan-Hun yang dinilai sebagai sampah dan tidak berguna, dan Wang-Sheng pun menjadi “orang cacat” yang terkenal di Dunia Yuan-Hun. Wang-Sheng kemudian menggunakan pengetahuan baru yang dia pelajari di Dunia Yuan-Hun untuk bertahan hidup, dan bahkan berhasil menemukan cara untuk memperkuat Roh Yuan-Hun miliknya yang tidak berguna itu. Wang-Sheng pun memulai perjalanannya dalam dunia persilatan Yuan-Hun yang kejam dan menerobos ke puncak tertinggi!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Jan 2022 17:51:22 +0700</pubDate>
+        <link>http://localhost:4000/first-dragon/</link>
+        <guid isPermaLink="true">http://localhost:4000/first-dragon/</guid>
+        
+        <category>manhua</category>
+        
+        
+        <category>Sinopsis Manhua</category>
+        
+      </item>
     
   </channel>
 </rss>
