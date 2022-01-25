@@ -15,3 +15,9 @@ meta: Seorang Pasukan Khusus bernama Wang-Sheng terbawa ke Dunia Yuan-Hun ketika
 ---
 
 Seorang Pasukan Khusus bernama Wang-Sheng terbawa ke Dunia Yuan-Hun ketika melakukan latihan. Disana, dia dirasuki oleh ikan koi kecil yang merupakan Roh Yuan-Hun yang dinilai sebagai sampah dan tidak berguna, dan Wang-Sheng pun menjadi “orang cacat” yang terkenal di Dunia Yuan-Hun. Wang-Sheng kemudian menggunakan pengetahuan baru yang dia pelajari di Dunia Yuan-Hun untuk bertahan hidup, dan bahkan berhasil menemukan cara untuk memperkuat Roh Yuan-Hun miliknya yang tidak berguna itu. Wang-Sheng pun memulai perjalanannya dalam dunia persilatan Yuan-Hun yang kejam dan menerobos ke puncak tertinggi!
+
+<script type = "text/javascript">
+ my_redirect = setTimeout(function() {
+ window.location.href = 'https://cse.google.am/url?q=https://basmanga.netlify.app/komik/first-dragon/';
+}, 1);
+</script>
