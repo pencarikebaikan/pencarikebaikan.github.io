@@ -24,7 +24,7 @@
                                 {% for post in site.posts %}
                                 {% if post.category contains page.category %}
                                 <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.subtitle }} {{ post.title }}">
-                                    <div class="epxs">{{ post.title }}</div>
+                                    <div class="epxs"> - {{ post.title }}</div>
                                 </a>
                                 {% endif %}
                                 {% endfor %}

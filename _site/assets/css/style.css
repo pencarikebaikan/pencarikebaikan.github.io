@@ -177,7 +177,7 @@ header{float:left;margin: 8px 20px 8px 0;}
 .bs .bsx .limit{padding:100% 0 0;position:relative;overflow:hidden;background:#111;}
 .bs .bsx .limit .t{position:absolute;top:0;z-index:1;width:100%;text-align:center;overflow:hidden}
 .bs .bsx .limit .b{position:absolute;bottom:-30px;color:#FFF;z-index:1;padding:8px 0;width:100%;text-align:center;background:rgba(34,58,101,0.9);transition:all .2s;-webkit-transition:all .2s;-moz-transition:all .2s}
-.bs .bsx .limit img{width:100%;height:auto;top:0;position:absolute}
+.bs .bsx .limit img{width:100%;height:100%;top:0;position:absolute}
 .bs .bsx .limit .t .type{margin-top:5px;margin-left:5px;font-size:11px;padding:1px 5px;border-radius:1px;float:left;color:#eee;background:#673ab7}
 .bs .bsx .limit .t .ept{margin-top:5px;margin-right:5px;font-size:11px;padding:1px 5px;border-radius:1px;float:right;color:#222;background:rgba(255,255,255,0.9)}
 .bs .bsx .limit .t .type.TV{background:rgba(14,175,193,0.8);color:#FFF}
@@ -1316,4 +1316,8 @@ height: 20px;
 
 .rel hover {
      opacity: 1;    
+}
+
+.combro {
+    text-align: center;
 }
