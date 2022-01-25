@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://basmanga.netlify.app/sitemap.xml
+Sitemap: https://gadoblog.pages.dev/sitemap.xml
